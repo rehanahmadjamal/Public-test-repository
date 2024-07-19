@@ -9,7 +9,3 @@ print("What is going on ", test1)
 print("Do you have any idea?")
 test2 = input()
 print("You have no idea, ", test2, ", you are in trouble")
-
-print("Just another test")
-
-print("can I push?")
